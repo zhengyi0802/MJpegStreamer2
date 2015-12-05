@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+environment/project/com.android.toolchain.gcc.2014084446/CWD/delimiter=\:
+environment/project/com.android.toolchain.gcc.2014084446/CWD/operation=replace
+environment/project/com.android.toolchain.gcc.2014084446/CWD/value=/home/chevy/workspace/MJpegStreamer/
+environment/project/com.android.toolchain.gcc.2014084446/PWD/delimiter=\:
+environment/project/com.android.toolchain.gcc.2014084446/PWD/operation=replace
+environment/project/com.android.toolchain.gcc.2014084446/PWD/value=/home/chevy/workspace/MJpegStreamer/
+environment/project/com.android.toolchain.gcc.2014084446/append=true
+environment/project/com.android.toolchain.gcc.2014084446/appendContributed=true
